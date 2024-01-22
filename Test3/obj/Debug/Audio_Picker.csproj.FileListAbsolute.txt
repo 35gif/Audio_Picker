@@ -1,0 +1,7 @@
+D:\C#\Тесты\Audio_Picker\Test3\bin\Debug\Test3.exe.config
+D:\C#\Тесты\Audio_Picker\Test3\bin\Debug\Test3.exe
+D:\C#\Тесты\Audio_Picker\Test3\bin\Debug\Test3.pdb
+D:\C#\Тесты\Audio_Picker\Test3\obj\Debug\Audio_Picker.csproj.AssemblyReference.cache
+D:\C#\Тесты\Audio_Picker\Test3\obj\Debug\Audio_Picker.csproj.CoreCompileInputs.cache
+D:\C#\Тесты\Audio_Picker\Test3\obj\Debug\Test3.exe
+D:\C#\Тесты\Audio_Picker\Test3\obj\Debug\Test3.pdb

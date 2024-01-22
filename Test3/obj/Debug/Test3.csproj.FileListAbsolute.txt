@@ -1,0 +1,8 @@
+D:\C#\Тесты\Test3\Test3\bin\Debug\Test3.exe.config
+D:\C#\Тесты\Test3\Test3\bin\Debug\Test3.exe
+D:\C#\Тесты\Test3\Test3\bin\Debug\Test3.pdb
+D:\C#\Тесты\Test3\Test3\obj\Debug\Test3.csproj.AssemblyReference.cache
+D:\C#\Тесты\Test3\Test3\obj\Debug\Test3.csproj.SuggestedBindingRedirects.cache
+D:\C#\Тесты\Test3\Test3\obj\Debug\Test3.csproj.CoreCompileInputs.cache
+D:\C#\Тесты\Test3\Test3\obj\Debug\Test3.exe
+D:\C#\Тесты\Test3\Test3\obj\Debug\Test3.pdb
